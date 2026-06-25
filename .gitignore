@@ -1,0 +1,46 @@
+# OS
+.DS_Store
+Thumbs.db
+*.tmp
+*.bak
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Python
+__pycache__/
+*.pyc
+*.egg-info/
+.venv/
+
+# Build
+build/
+dist/
+*.o
+*.so
+
+# 3D/CAD
+*.step
+*.stp
+*.iges
+*.stl
+*.obj
+*.f3d
+*.fcstd
+
+# PCB
+*.brd
+*.sch
+*.gbr
+*gerber*/
+
+# Docs drafts
+*.md.bak
+drafts/
+
+# Local config
+local.conf
+secrets.yaml
